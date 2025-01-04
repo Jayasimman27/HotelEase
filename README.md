@@ -33,7 +33,10 @@ With a SQL database seamlessly integrated for persistent storage and a modern UI
 
 ## Snapshots 
 
-![](icon/snap1.png)
+![snap1](https://github.com/user-attachments/assets/064fa438-0359-4693-8091-91f4c9269116)
+
+![snap2](https://github.com/user-attachments/assets/8b199144-77a3-4fd5-8d15-0116f8cc5e74)
+
 
 
 ## Installation and Setup
