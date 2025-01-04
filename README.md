@@ -33,7 +33,7 @@ With a SQL database seamlessly integrated for persistent storage and a modern UI
 
 ## Snapshots 
 
-<img src="C:\Users\jayas\Pictures\Screenshots\Screenshot 2025-01-04 123235.png"  >
+<img src=".png"  >
 
 
 ## Installation and Setup
