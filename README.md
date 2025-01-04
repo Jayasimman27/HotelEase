@@ -33,7 +33,7 @@ With a SQL database seamlessly integrated for persistent storage and a modern UI
 
 ## Snapshots 
 
-<img src=".png"  >
+![](icon/snap1.png)
 
 
 ## Installation and Setup
