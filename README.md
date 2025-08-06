@@ -1,7 +1,7 @@
-# Hotel Management System
+# HotelEase
 
 ## Overview
-The **Hotel Management System** is a comprehensive and user-friendly application built using strong Object-Oriented Programming (OOP) principles in Java. Designed to simplify hotel operations, the system offers tools to efficiently manage rooms, employees, customers, and various hotel departments.
+The **HotelEase is a Hotel Management System** is a comprehensive and user-friendly application built using strong Object-Oriented Programming (OOP) principles in Java. Designed to simplify hotel operations, the system offers tools to efficiently manage rooms, employees, customers, and various hotel departments.
 
 This project employs key OOP concepts such as: **Encapsulation** **Inheritance** **Polymorphism**
   **Abstraction**
